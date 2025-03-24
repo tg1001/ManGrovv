@@ -28,4 +28,4 @@ Progress
 - Community website is being developed.  
 - Deforestation Tracker model needs more fine-tuning.
 
-![Preview_ManGrovv](https://github.com/user-attachments/assets/0482594c-23d5-4a9d-be46-f131a7d6894b)
+
