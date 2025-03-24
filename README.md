@@ -1,4 +1,4 @@
-Welcome to ManGrovv!  
+![Preview_ManGrovv](https://github.com/user-attachments/assets/c36a2ad4-9aa4-46e4-a719-2b10e01b44a9)Welcome to ManGrovv!  
 
 Ever wondered what happens to satellite data that's being collected 24/7?  
 Or how sustainable your home or building is?  
@@ -27,3 +27,5 @@ Progress
 - Home website is deployed.  
 - Community website is being developed.  
 - Deforestation Tracker model needs more fine-tuning.
+
+![Preview_ManGrovv](https://github.com/user-attachments/assets/0482594c-23d5-4a9d-be46-f131a7d6894b)
